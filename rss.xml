@@ -5,8 +5,16 @@
         <link>http://example.com</link>
         <description>a little blog box</description>
         <language>zh-CN</language>
-        <pubDate>Thu, 16 May 2024 10:14:24 +0800</pubDate>
-        <lastBuildDate>Thu, 16 May 2024 10:14:24 +0800</lastBuildDate>
+        <pubDate>Thu, 16 May 2024 16:53:18 +0800</pubDate>
+        <lastBuildDate>Thu, 16 May 2024 16:53:18 +0800</lastBuildDate>
+        <item>
+            <guid isPermalink="true">http://example.com/2024/05/16/aaa/</guid>
+            <title>aa</title>
+            <link>http://example.com/2024/05/16/aaa/</link>
+            <pubDate>Thu, 16 May 2024 16:53:18 +0800</pubDate>
+            <description><![CDATA[ &lt;h4 id=&#34;push-test&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#push-test&#34;&gt;#&lt;/a&gt; push test&lt;/h4&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">http://example.com/2024/05/16/test/</guid>
             <title>Test Article</title>
